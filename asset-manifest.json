@@ -1,9 +1,7 @@
 {
   "files": {
-    "main.css": "/Arkendar-1.0/static/css/main.3b472739.css",
+    "main.css": "/Arkendar-1.0/static/css/main.61401d8e.css",
     "main.js": "/Arkendar-1.0/static/js/main.2c29e5e0.js",
-    "static/media/worlds-banner.jpg": "/Arkendar-1.0/static/media/worlds-banner.929ec0511ddd6cd20054.jpg",
-    "static/media/ForNew.jpg": "/Arkendar-1.0/static/media/ForNew.245d23878e80b3b7f18a.jpg",
     "static/media/skills.gif": "/Arkendar-1.0/static/media/skills.b218c166cb2e3fb7fecd.gif",
     "static/media/abilities.gif": "/Arkendar-1.0/static/media/abilities.07275aaf423730f75b04.gif",
     "static/media/characteristics.gif": "/Arkendar-1.0/static/media/characteristics.d2e6bab836b741767dfa.gif",
@@ -12,15 +10,17 @@
     "static/media/hero3.png": "/Arkendar-1.0/static/media/hero3.0563752e0262cd09eb58.png",
     "static/media/hero1.png": "/Arkendar-1.0/static/media/hero1.1de46042b8c50b4e8008.png",
     "static/media/Logo.svg": "/Arkendar-1.0/static/media/Logo.e663de3657c378e89c0b3dee644d2993.svg",
-    "static/media/rules-banner.jpg": "/Arkendar-1.0/static/media/rules-banner.11eed47cb686ff7a5791.jpg",
-    "static/media/charCreate.jpg": "/Arkendar-1.0/static/media/charCreate.7c7c2fbe2df1a7a8b2da.jpg",
-    "static/media/home-banner.jpg": "/Arkendar-1.0/static/media/home-banner.dd8c123582177dc05a45.jpg",
     "static/media/dark.png": "/Arkendar-1.0/static/media/dark.163b5a63fef0fb40373f.png",
+    "static/media/rules-banner.jpg": "/Arkendar-1.0/static/media/rules-banner.af634590de132edd7542.jpg",
     "static/media/spaceopera.png": "/Arkendar-1.0/static/media/spaceopera.756e4220a73c9b78e6c7.png",
     "static/media/bright.png": "/Arkendar-1.0/static/media/bright.5ac97b5b8f695a20df5f.png",
+    "static/media/home-banner.jpg": "/Arkendar-1.0/static/media/home-banner.5006744a21a3ea10c60f.jpg",
+    "static/media/ForNew.jpg": "/Arkendar-1.0/static/media/ForNew.c9270ed4448d43aa8c0c.jpg",
+    "static/media/worlds-banner.jpg": "/Arkendar-1.0/static/media/worlds-banner.25403659c20e63445529.jpg",
     "static/media/Montserrat-Regular.ttf": "/Arkendar-1.0/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
     "static/media/fightstatic.jpg": "/Arkendar-1.0/static/media/fightstatic.9bfe4b48cfae9fd62a85.jpg",
     "static/media/skillsStatic.jpg": "/Arkendar-1.0/static/media/skillsStatic.c404382305689d8a2a86.jpg",
+    "static/media/charCreate.jpg": "/Arkendar-1.0/static/media/charCreate.ffa92447e031b72793f4.jpg",
     "static/media/abilitiesstatic.jpg": "/Arkendar-1.0/static/media/abilitiesstatic.c1bf9ed817c4a382f906.jpg",
     "static/media/characteristics.jpg": "/Arkendar-1.0/static/media/characteristics.f24dbccca8e820268f07.jpg",
     "static/media/greenDragon.png": "/Arkendar-1.0/static/media/greenDragon.4573061339f9743dd6e6.png",
@@ -30,11 +30,11 @@
     "static/media/orangeback.png": "/Arkendar-1.0/static/media/orangeback.5069f53065bfef618c8f.png",
     "index.html": "/Arkendar-1.0/index.html",
     "static/media/news.xml": "/Arkendar-1.0/static/media/news.b353e5f642642644ce32.xml",
-    "main.3b472739.css.map": "/Arkendar-1.0/static/css/main.3b472739.css.map",
+    "main.61401d8e.css.map": "/Arkendar-1.0/static/css/main.61401d8e.css.map",
     "main.2c29e5e0.js.map": "/Arkendar-1.0/static/js/main.2c29e5e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b472739.css",
+    "static/css/main.61401d8e.css",
     "static/js/main.2c29e5e0.js"
   ]
 }
